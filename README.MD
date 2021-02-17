@@ -1,38 +1,35 @@
 # Python 4 Data Science - Guia de início
 
 ### A QUEM SE DESTINA / OBJETIVO
-Este projeto irá reunir algumas aplicações em python para soluções diversas de BI e Data Science. Qualquer um pode contribuir com a adição de novos programas, considerando estes escritos na linguagem específica.
+Este projeto irá reunir algumas aplicações em R para soluções diversas de BI e Data Science. Qualquer um pode contribuir com a adição de novos programas, considerando estes escritos na linguagem específica.
 
-### Análise de preços Airbnb no Rio de Janeiro 
-- Análise de hospedaria no estilo airbnb no rio;
-- Utiliza base de dados pública;
-- Utiliza análise por gráfico e mapa;
-- Desenvolvido com IA preditivo.
+### Tutorial
+- Comandos básicos da linguagem;
+- Exemplos gerais.
 
-### Análise de cancelamento de cartão de crédito
-- Análise das justificativa que levam usuários a cancelarem cartões de crédito;
-- Desenho do plano de ação.
+### Filtro de dados em DataFrame
+- Criação de dataframe a partir de base de dados;
+- Modelagem do DF;
+- Análise simples em cima dos resultados.
 
-### Análise de faturamento de loja
-- Análise de faturamento de loja;
-- Levantamento de ticked médio por venda;
-- Envio de email;
-- Desenho do plano de ação.
+### Input de dados
+- Input de dados;
+- Modelagem do dataframe;
+- Análise simples em cima dos resultados.
 
-### Anúncio de vendedor por vendas
-- Levantamento de vendedores com grande número de vendas;
-- Envio de sms para vendedor.
+### Importação de dados e gráficos
+- Importação de dados de links externos;
+- Alteração dos dados para refinamento das análises;
+- Criação de gráficos para ilustrar análises a serem feitas.
 
-### Automação Web
-- Análise de clientes devedores de empresa;
-- Acesso automático à página do pagseguro;
-- Envio de emails automáticos pela aplicação através do pagseguro para cada cliente.
+### Analise de interesses de estudantes jovens
+- Importação de dados de links externos;
+- Alteração dos dados para refinamento das análises;
+- Criação de gráficos para ilustrar análises a serem feitas.
 
 ... OUTROS PROJETOS VIRÃO ....
 
 ### BIBLIOTECAS DO PROJETO
-* IDE [ Pychart ](https://www.jetbrains.com/pt-br/pycharm/);
-
 * IDE [ Jupyter ](https://jupyter.org/).
 
 
